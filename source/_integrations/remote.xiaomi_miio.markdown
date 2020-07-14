@@ -181,6 +181,8 @@ Use the entity_id of the Xiaomi IR Remote to start a learning process.
 
 After learning the command the base64 string can be found as a notification in Overview, the string can be copied by left clicking on the string and choose the copy option.
 
+Second version (`chuangmi.remote.v2`) may not correctly learn codes from air conditioners.
+
 ### `xiaomi_miio.remote_set_led_on`
 
 Used to turn remote's blue LED on.
